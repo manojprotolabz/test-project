@@ -35,3 +35,5 @@ fields:
     maxSize: 250
   label: iiiii
   description: sd
+pages:
+- content/products/blue-cheese.md
