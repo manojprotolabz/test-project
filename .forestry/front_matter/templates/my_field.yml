@@ -26,11 +26,5 @@ fields:
 - type: text
   name: url
   label: url
-- name: image2
-  type: file
-  config:
-    maxSize: 250
-  label: image2
-  description: asdfasf
 pages:
 - content/products/camembert.md
