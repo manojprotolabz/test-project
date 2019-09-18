@@ -29,11 +29,5 @@ fields:
 - type: text
   name: image2
   label: image2
-- name: iiiii
-  type: file
-  config:
-    maxSize: 250
-  label: iiiii
-  description: sd
 pages:
 - content/products/blue-cheese.md
